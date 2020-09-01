@@ -1,0 +1,6 @@
+module Pods_PitchAI {
+  umbrella header "Pods-PitchAI-umbrella.h"
+
+  export *
+  module * { export * }
+}

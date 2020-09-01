@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="17px" viewBox="0 0 21 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape Copy</title>
+    <g id="Phase-3---Coach" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PitchAI---Register-With" transform="translate(-54.000000, -335.000000)" fill="#6BA4FF" fill-rule="nonzero">
+            <g id="Group" transform="translate(32.000000, 321.000000)">
+                <path d="M40.995,14.5 L24.995,14.5 C23.895,14.5 23.005,15.4 23.005,16.5 L22.995,28.5 C22.995,29.6 23.895,30.5 24.995,30.5 L40.995,30.5 C42.095,30.5 42.995,29.6 42.995,28.5 L42.995,16.5 C42.995,15.4 42.095,14.5 40.995,14.5 Z M40.995,18.5 L32.995,23.5 L24.995,18.5 L24.995,16.5 L32.995,21.5 L40.995,16.5 L40.995,18.5 Z" id="Shape-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

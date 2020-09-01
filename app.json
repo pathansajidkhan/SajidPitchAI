@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "PitchAI",
+    "description": "PitchAI Mobile",
+    "slug": "PitchAI_Mobile",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.proplayai.pitchai",
+      "icon": "./assets/icon_ios_1024x1024.png"
+    },
+    "android": {
+      "package": "com.proplayai.pitchai",
+      "splash": {
+        "mdpi": "./assets/splash/480x720.png",
+        "hdpi": "./assets/splash/640x960.png",
+        "xhdpi": "./assets/splash/640x1136.png",
+        "xxhdpi": "./assets/splash/960x1440.png",
+        "xxxhdpi": "./assets/splash/1280x1920.png",
+        "resizeMode": "cover"
+      },
+      "icon": "./assets/icon_android_512x512.png"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "db"
+      ]
+    }
+  }
+}

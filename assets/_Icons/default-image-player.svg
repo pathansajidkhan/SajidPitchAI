@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>default-image-player</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80"></rect>
+    </defs>
+    <g id="Player" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PitchAI-Player---Overview-Empty" transform="translate(-32.000000, -83.000000)">
+            <g id="default-image-player" transform="translate(32.000000, 83.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#808892" xlink:href="#path-1"></use>
+                <path d="M39.9982056,55.2534198 C60.2474573,55.2534198 76.6631623,66.6296055 76.6666667,83.6687632 C76.6666667,97.3121114 3.33333333,97.3121114 3.33333333,83.6687632 C3.33333333,66.6296055 19.748954,55.2534198 39.9982056,55.2534198 Z M39.9983851,16 C48.9632321,16 56.2282904,24.2532971 56.2282904,34.4342656 C56.2282904,44.6154135 48.9632321,52.8685312 39.9983851,52.8685312 C31.0335381,52.8685312 23.7684798,44.615234 23.7684798,34.4342656 C23.7684798,24.2532971 31.0335381,16 39.9983851,16 Z" id="Combined-Shape" fill="#20252B" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 8</title>
+    <g id="Phase-3---Coach" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Player-Profile-Copy-4" transform="translate(-155.000000, -319.000000)">
+            <g id="Group-8" transform="translate(155.500000, 319.322835)">
+                <circle id="Oval" fill="#131415" cx="25" cy="25" r="15.3462055"></circle>
+                <path d="M25,0 C11.2,0 0,11.2 0,25 C0,38.8 11.2,50 25,50 C38.8,50 50,38.8 50,25 C50,11.2 38.8,0 25,0 L25,0 Z M20,36.25 L20,13.75 L35,25 L20,36.25 L20,36.25 Z" id="Shape" fill="#6BA4FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

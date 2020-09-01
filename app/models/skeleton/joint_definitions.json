@@ -1,0 +1,23 @@
+{
+    "joints": [
+        "anklel", "ankler", "elbowl", "elbowr", "hipl", "hipr", "kneel", "kneer", "neck", "pelv", "shoulderl", "shoulderr", "toel", "toer", "wristl", "wristr"
+    ],
+    "bonePairs": [
+        [ "ankler", "kneer" ],
+        [ "kneer", "hipr" ],
+        [ "anklel", "kneel" ],
+        [ "kneel", "hipl" ],
+        [ "hipr", "hipl" ],
+        [ "hipr", "shoulderr" ],
+        [ "hipl", "shoulderl" ],
+        [ "shoulderr", "shoulderl" ],
+        [ "shoulderl", "elbowl" ],
+        [ "elbowl", "wristl" ],
+        [ "shoulderr", "elbowr" ],
+        [ "elbowr", "wristr" ],
+        [ "anklel", "toel" ],
+        [ "ankler", "toer" ]
+    ]
+}
+
+
